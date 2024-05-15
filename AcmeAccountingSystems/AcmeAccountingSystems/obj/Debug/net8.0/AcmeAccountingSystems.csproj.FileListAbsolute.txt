@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\net8.0\AcmeAccountingSystems.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\net8.0\AcmeAccountingSystems.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\net8.0\AcmeAccountingSystems.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\net8.0\AcmeAccountingSystems.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\net8.0\AcmeAccountingSystems.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\refint\AcmeAccountingSystems.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\AcmeAccountingSystems.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\net8.0\ref\AcmeAccountingSystems.dll
