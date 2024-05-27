@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\bin\Debug\net8.0\AcademyOfLearningCareerCollege.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\bin\Debug\net8.0\AcademyOfLearningCareerCollege.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\bin\Debug\net8.0\AcademyOfLearningCareerCollege.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\bin\Debug\net8.0\AcademyOfLearningCareerCollege.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\bin\Debug\net8.0\AcademyOfLearningCareerCollege.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\refint\AcademyOfLearningCareerCollege.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\AcademyOfLearningCareerCollege.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AcademyOfLearningCareerCollege\AcademyOfLearningCareerCollege\obj\Debug\net8.0\ref\AcademyOfLearningCareerCollege.dll
