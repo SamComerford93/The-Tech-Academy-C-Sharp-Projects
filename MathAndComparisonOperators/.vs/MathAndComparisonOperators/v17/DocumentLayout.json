@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC17BB07-6D86-444E-BF4C-61C58C9E7042}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\mathandcomparisonoperators\\mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC17BB07-6D86-444E-BF4C-61C58C9E7042}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|solutionrelative:mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
+              "RelativeDocumentMoniker": "MathAndComparisonOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs*",
+              "RelativeToolTip": "MathAndComparisonOperators\\Program.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:34:19.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
