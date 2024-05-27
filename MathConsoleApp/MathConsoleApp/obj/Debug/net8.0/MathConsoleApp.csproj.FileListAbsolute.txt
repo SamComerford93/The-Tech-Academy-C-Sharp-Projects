@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\refint\MathConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\MathConsoleApp.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net8.0\ref\MathConsoleApp.dll
