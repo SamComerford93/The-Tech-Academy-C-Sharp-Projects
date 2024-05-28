@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\net8.0\CarInsuranceApproval.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\refint\CarInsuranceApproval.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\CarInsuranceApproval.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\net8.0\ref\CarInsuranceApproval.dll
