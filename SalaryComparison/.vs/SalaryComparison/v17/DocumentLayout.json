@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\SalaryComparison\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6ABF9-CA22-44BC-BE34-7EB13B1F3328}|SalaryComparison\\SalaryComparison.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\salarycomparison\\salarycomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6ABF9-CA22-44BC-BE34-7EB13B1F3328}|SalaryComparison\\SalaryComparison.csproj|solutionrelative:salarycomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\SalaryComparison\\SalaryComparison\\Program.cs",
+              "RelativeDocumentMoniker": "SalaryComparison\\Program.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\SalaryComparison\\SalaryComparison\\Program.cs",
+              "RelativeToolTip": "SalaryComparison\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:17:55.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

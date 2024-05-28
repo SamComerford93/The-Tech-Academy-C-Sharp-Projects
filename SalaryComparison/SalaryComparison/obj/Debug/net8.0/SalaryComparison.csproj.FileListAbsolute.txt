@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\bin\Debug\net8.0\SalaryComparison.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\bin\Debug\net8.0\SalaryComparison.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\bin\Debug\net8.0\SalaryComparison.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\bin\Debug\net8.0\SalaryComparison.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\bin\Debug\net8.0\SalaryComparison.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\refint\SalaryComparison.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\SalaryComparison.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\SalaryComparison\SalaryComparison\obj\Debug\net8.0\ref\SalaryComparison.dll
