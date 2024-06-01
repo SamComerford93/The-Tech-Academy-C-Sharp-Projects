@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\bin\Debug\net8.0\PackageQuoteApp.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\bin\Debug\net8.0\PackageQuoteApp.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\bin\Debug\net8.0\PackageQuoteApp.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\bin\Debug\net8.0\PackageQuoteApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\bin\Debug\net8.0\PackageQuoteApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\refint\PackageQuoteApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\PackageQuoteApp.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\PackageQuoteApp\PackageQuoteApp\obj\Debug\net8.0\ref\PackageQuoteApp.dll
