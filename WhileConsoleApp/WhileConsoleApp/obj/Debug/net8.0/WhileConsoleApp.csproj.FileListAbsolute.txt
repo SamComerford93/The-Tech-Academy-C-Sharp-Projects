@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\bin\Debug\net8.0\WhileConsoleApp.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\bin\Debug\net8.0\WhileConsoleApp.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\bin\Debug\net8.0\WhileConsoleApp.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\bin\Debug\net8.0\WhileConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\bin\Debug\net8.0\WhileConsoleApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\refint\WhileConsoleApp.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\WhileConsoleApp.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\WhileConsoleApp\WhileConsoleApp\obj\Debug\net8.0\ref\WhileConsoleApp.dll
