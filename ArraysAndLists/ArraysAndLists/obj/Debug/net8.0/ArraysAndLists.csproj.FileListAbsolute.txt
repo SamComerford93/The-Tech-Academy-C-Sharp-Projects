@@ -1,0 +1,14 @@
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.exe
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.deps.json
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.runtimeconfig.json
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.dll
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.pdb
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.dll
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\refint\ArraysAndLists.dll
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.pdb
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net8.0\ref\ArraysAndLists.dll
