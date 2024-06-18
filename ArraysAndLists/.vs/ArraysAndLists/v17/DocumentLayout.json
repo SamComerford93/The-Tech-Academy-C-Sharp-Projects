@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\ArraysAndLists\\",
+  "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArraysAndLists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E895F4D-B5DF-4D6B-BF5A-CD79306CDCC8}|ArraysAndLists\\ArraysAndLists.csproj|c:\\users\\comesamw\\source\\repos\\arraysandlists\\arraysandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E895F4D-B5DF-4D6B-BF5A-CD79306CDCC8}|ArraysAndLists\\ArraysAndLists.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\arraysandlists\\arraysandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E895F4D-B5DF-4D6B-BF5A-CD79306CDCC8}|ArraysAndLists\\ArraysAndLists.csproj|solutionrelative:arraysandlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\ArraysAndLists\\ArraysAndLists\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArraysAndLists\\ArraysAndLists\\Program.cs",
               "RelativeDocumentMoniker": "ArraysAndLists\\Program.cs",
-              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\ArraysAndLists\\ArraysAndLists\\Program.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArraysAndLists\\ArraysAndLists\\Program.cs",
               "RelativeToolTip": "ArraysAndLists\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

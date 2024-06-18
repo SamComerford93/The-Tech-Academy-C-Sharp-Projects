@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArrayAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD11AC1-B9C6-425E-A023-B3F5A311351C}|ArrayAssignment\\ArrayAssignment.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\arrayassignment\\arrayassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD11AC1-B9C6-425E-A023-B3F5A311351C}|ArrayAssignment\\ArrayAssignment.csproj|solutionrelative:arrayassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArrayAssignment\\ArrayAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\ArrayAssignment\\ArrayAssignment\\Program.cs",
+              "RelativeToolTip": "ArrayAssignment\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvz4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:31:27.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

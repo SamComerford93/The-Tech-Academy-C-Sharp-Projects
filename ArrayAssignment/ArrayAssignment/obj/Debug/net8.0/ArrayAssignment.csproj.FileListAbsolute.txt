@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\refint\ArrayAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\net8.0\ref\ArrayAssignment.dll
