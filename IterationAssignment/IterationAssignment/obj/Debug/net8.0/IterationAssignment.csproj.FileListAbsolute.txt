@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\net8.0\IterationAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\net8.0\IterationAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\net8.0\IterationAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\net8.0\IterationAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\bin\Debug\net8.0\IterationAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\refint\IterationAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\IterationAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\IterationAssignment\IterationAssignment\obj\Debug\net8.0\ref\IterationAssignment.dll
