@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\net8.0\StringsAndIntegersAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\net8.0\StringsAndIntegersAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\net8.0\StringsAndIntegersAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\net8.0\StringsAndIntegersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\net8.0\StringsAndIntegersAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\refint\StringsAndIntegersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\StringsAndIntegersAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\net8.0\ref\StringsAndIntegersAssignment.dll
