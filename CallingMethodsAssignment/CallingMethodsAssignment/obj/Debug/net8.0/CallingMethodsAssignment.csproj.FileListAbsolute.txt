@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\bin\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\refint\CallingMethodsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\CallingMethodsAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment\obj\Debug\net8.0\ref\CallingMethodsAssignment.dll
