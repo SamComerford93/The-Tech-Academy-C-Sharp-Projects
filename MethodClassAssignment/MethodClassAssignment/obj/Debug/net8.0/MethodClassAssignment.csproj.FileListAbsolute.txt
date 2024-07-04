@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\refint\MethodClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\net8.0\ref\MethodClassAssignment.dll
