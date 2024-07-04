@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MainMethodAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\mainmethodassignment\\mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|solutionrelative:mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\mainmethodassignment\\mainmethodassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|solutionrelative:mainmethodassignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\mainmethodassignment\\mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2933955-C412-49B6-A4FC-76B0D3739615}|MainMethodAssignment\\MainMethodAssignment.csproj|solutionrelative:mainmethodassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MainMethodAssignment\\MainMethodAssignment\\MathOperations.cs",
               "RelativeDocumentMoniker": "MainMethodAssignment\\MathOperations.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\MainMethodAssignment\\MainMethodAssignment\\Program.cs",
               "RelativeDocumentMoniker": "MainMethodAssignment\\Program.cs",
