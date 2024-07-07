@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\net8.0\MethodsAndObjectsAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\net8.0\MethodsAndObjectsAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\net8.0\MethodsAndObjectsAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\net8.0\MethodsAndObjectsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\net8.0\MethodsAndObjectsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\refint\MethodsAndObjectsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\MethodsAndObjectsAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\net8.0\ref\MethodsAndObjectsAssignment.dll
