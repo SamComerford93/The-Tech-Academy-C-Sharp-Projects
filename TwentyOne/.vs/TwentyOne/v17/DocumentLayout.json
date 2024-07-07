@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\twentyone\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\twentyone\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|c:\\users\\comesamw\\source\\repos\\the-tech-academy-c-sharp-projects\\twentyone\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D045F1FB-3087-4D29-A7C1-5B7545A181F2}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeToolTip": "TwentyOne\\TwentyOneGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:26:03.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeDocumentMoniker": "TwentyOne\\Game.cs",
+              "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Game.cs",
+              "RelativeToolTip": "TwentyOne\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:19:26.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Deck.cs",
@@ -38,12 +72,11 @@
               "RelativeToolTip": "TwentyOne\\Deck.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T20:22:36.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T20:22:36.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "TwentyOne\\Card.cs",
@@ -51,8 +84,7 @@
               "RelativeToolTip": "TwentyOne\\Card.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T20:11:52.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T20:11:52.717Z"
             },
             {
               "$type": "Document",
@@ -62,7 +94,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\comesamw\\source\\repos\\The-Tech-Academy-C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBQAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T20:06:57.268Z",
               "EditorCaption": ""
