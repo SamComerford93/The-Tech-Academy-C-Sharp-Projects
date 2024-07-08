@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\refint\AbstractClassAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\ref\AbstractClassAssignment.dll
