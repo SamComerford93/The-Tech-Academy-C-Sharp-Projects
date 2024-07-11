@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\bin\Debug\net8.0\ParametersAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\refint\ParametersAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ParametersAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParametersAssignment\ParametersAssignment\obj\Debug\net8.0\ref\ParametersAssignment.dll
