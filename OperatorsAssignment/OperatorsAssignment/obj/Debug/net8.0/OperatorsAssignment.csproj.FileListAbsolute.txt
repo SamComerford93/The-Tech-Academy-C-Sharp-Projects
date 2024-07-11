@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\net8.0\OperatorsAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\net8.0\OperatorsAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\net8.0\OperatorsAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\net8.0\OperatorsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\net8.0\OperatorsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\refint\OperatorsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\OperatorsAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\net8.0\ref\OperatorsAssignment.dll
