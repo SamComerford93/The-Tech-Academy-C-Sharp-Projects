@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\refint\ParsingEnumsAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ref\ParsingEnumsAssignment.dll
