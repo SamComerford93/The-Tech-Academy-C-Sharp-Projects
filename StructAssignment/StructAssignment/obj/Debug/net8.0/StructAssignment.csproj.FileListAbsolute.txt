@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\net8.0\StructAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\net8.0\StructAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\net8.0\StructAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\net8.0\StructAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\bin\Debug\net8.0\StructAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\refint\StructAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\StructAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\StructAssignment\StructAssignment\obj\Debug\net8.0\ref\StructAssignment.dll
