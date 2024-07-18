@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\net8.0\DateTimeAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\net8.0\DateTimeAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\net8.0\DateTimeAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\net8.0\DateTimeAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\bin\Debug\net8.0\DateTimeAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\refint\DateTimeAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\DateTimeAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\DateTimeAssignment\DateTimeAssignment\obj\Debug\net8.0\ref\DateTimeAssignment.dll
