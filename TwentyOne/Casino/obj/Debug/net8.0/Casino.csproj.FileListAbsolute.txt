@@ -1,0 +1,12 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\refint\Casino.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\ref\Casino.dll
