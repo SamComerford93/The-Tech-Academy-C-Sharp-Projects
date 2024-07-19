@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\refint\ConstructorAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ref\ConstructorAssignment.dll
