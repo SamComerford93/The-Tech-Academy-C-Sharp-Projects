@@ -1,0 +1,15 @@
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.exe
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.deps.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.runtimeconfig.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.sourcelink.json
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\refint\TryCatchAssignment.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.pdb
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.genruntimeconfig.cache
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\ref\TryCatchAssignment.dll
