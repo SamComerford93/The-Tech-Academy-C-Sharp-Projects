@@ -17,3 +17,9 @@ C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\Twent
 C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\Casino.pdb
 C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.Up2Date
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\comesamw\source\repos\The-Tech-Academy-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
