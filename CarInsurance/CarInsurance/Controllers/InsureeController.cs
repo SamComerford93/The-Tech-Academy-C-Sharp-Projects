@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = GetQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -122,6 +123,71 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        // GET: Insuree/Admin
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
+        // Quote Calculation
+        public decimal GetQuote(Insuree insuree)
+        {
+
+            // Start with £50
+            decimal quoteTotal = 50;
+
+            // Check age and add amount depending which category they fit into
+            var today = DateTime.Today;
+
+            int age = today.Year - insuree.DateOfBirth.Year;
+
+            if(age <= 18)
+            {
+                quoteTotal += 100;
+            }
+            else if(age >= 19 && age <= 25)
+            {
+                quoteTotal += 50;
+            }
+            else
+            {
+                quoteTotal += 25;
+            }
+
+            // Check the cars year and add £25 if the car is before 2000 or after 2015
+            if (insuree.CarYear < 2000 ||  insuree.CarYear > 2015)
+            {
+                quoteTotal += 25;
+            }
+
+            // Check the cars make and model and add to quote if criteria is hit
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+            {
+                quoteTotal += 50;
+            }
+            else if (insuree.CarMake == "Porsche")
+            {
+                quoteTotal += 25;
+            }
+
+            // Add £10 for every speeding ticket 
+            quoteTotal += insuree.SpeedingTickets * 10;
+
+            // If the user has ever had a DUI add 25%
+            if (insuree.DUI == true)
+            {
+                quoteTotal *= 1.25M;
+            }
+
+            // If full coverage add 50%
+            if (insuree.CoverageType == true)
+            {
+                quoteTotal *= 1.5M;
+            }
+
+            return insuree.Quote = quoteTotal;
         }
     }
 }
